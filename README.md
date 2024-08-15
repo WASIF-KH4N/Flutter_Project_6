@@ -3,4 +3,4 @@ A hero animation in Flutter is a widget transition animation where a widget “f
 Note: Go to pubspec.yaml file in your IDE and type:
 
                                                assets:
-                                                  - assets/images/
+                                                 - assets/images/
