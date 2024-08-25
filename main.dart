@@ -29,7 +29,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("HERO ANIMATION",style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold,color: Colors.white),
+        title: Text("HERO ANIMATION",style: TextStyle(fontSize: 24,fontWeight: FontWeight.bold,color: Colors.white),
         ),
         backgroundColor: Colors.indigo,
        ), 
